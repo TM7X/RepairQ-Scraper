@@ -67,7 +67,7 @@ python repairq_gui.py
 
 ## Using the GUI
 ### Step 1 — Fill out the form:
-- **Base URL** — e.g., `https://nextgentech.repairq.io`
+- **Base URL** — e.g., `https://YOURURL.repairq.io`
 - **Username** / **Password** — RepairQ login credentials
 - **Start Ticket ID** / **End Ticket ID** — Ticket range to scrape
 - **Firefox EXE (optional)** — Leave blank to use system Firefox
