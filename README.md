@@ -1,4 +1,4 @@
-# 📘 How to Use the RepairQ Selenium Scraper
+# 📘 How to Use the RepairQ Parallel Scraper
 
 This guide explains how to install Python and Firefox, set up the environment, and run the scraper.
 
